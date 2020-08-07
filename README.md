@@ -1,5 +1,13 @@
-### Hi there 👋
-
+# Hi Loki there 👋
+## I'm a node.js developer who ventures into ruby on rails too.
+## Dev at Nois3Code and Aduana Web.
+## I will soon post the nois3code website.
+## I am currently working on some projects.
+## If you want to know, make yourself at home!
+### Reach me at:
+### 📫 LinkedIn: www.linkedin.com/in/BL4CKM4G3
+### 📫 Medium: https://medium.com/@bl4ckm4g3
+### 📫 Behance: https://www.behance.net/bl4ckm4g3
 <!--
 **BL4CKM4G3/BL4CKM4G3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
