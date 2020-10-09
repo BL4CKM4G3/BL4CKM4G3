@@ -1,6 +1,6 @@
-# Hi Loki there 👋
+# Hi AlvinJs there 👋
 ## I'm a node.js developer who ventures into ruby on rails too.
-## Dev at Nois3Code and Aduana Web.
+## Dev at Certus Software, Nois3Code and Aduana Web.
 ## I will soon post the nois3code website.
 ## I am currently working on some projects.
 ## If you want to know, make yourself at home!
