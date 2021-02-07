@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm BL4CKM4G3</h1>
 <h3 align="center">A passionate developer from Brazil.</h3>
-![Programmer Cat](assets/gif/giphy.webp)
+<img src="./assets/gif/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bl4ckm4g3&label=Profile%20views&color=0e75b6&style=flat" alt="bl4ckm4g3" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sans_brabo" target="blank"><img src="https://img.shields.io/twitter/follow/sans_brabo?logo=twitter&style=for-the-badge" alt="sans_brabo" /></a> </p>
