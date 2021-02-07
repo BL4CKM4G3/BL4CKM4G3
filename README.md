@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vue, Angular, React, Rails, GSAP**
 
-- 💬 Ask me about **Anything, just call for a coffe!**
+- 💬 Ask me about **Anything, just call for a coffee!**
 
 - 📫 How to reach me **bringmecharlie@gmail.com**
 
