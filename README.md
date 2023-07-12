@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BL4CKM4G3</h1>
+<h1 align="center">Hi 👋, I'm ALVXRX</h1>
 <h3 align="center">A passionate developer from Brazil.</h3>
 <p align="center">
 <img align="center"  src="./assets/gif/giphy.webp">
